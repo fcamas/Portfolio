@@ -119,7 +119,20 @@ import {
       company_name: "Hiker Weather ",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "August 2020 - December 2021",
+      date: "August 2020 - January 2021",
+      points: [
+        "Developed ",
+        "Created",
+        "Modified",
+      ],
+    },
+
+    {
+      title: "IOS Developer Intern Lead",
+      company_name: "Pantsuit Professinals",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "March 2021 - January 2022",
       points: [
         "Developed ",
         "Created",
