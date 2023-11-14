@@ -139,5 +139,17 @@ import {
         "Modified",
       ],
     },
+    {
+      title: "IOS Developer ",
+      company_name: "JPMorgan Chase and Co",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "",
+      points: [
+        "Developed ",
+        "Created",
+        "Modified",
+      ],
+    },
    
   ];
