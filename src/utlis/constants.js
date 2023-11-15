@@ -60,11 +60,11 @@ import {
   ];
   const technologies = [
     {
-      name: "HTML 5",
+      name: "Swift",
       icon: html,
     },
     {
-      name: "CSS 3",
+      name: "XCode",
       icon: css,
     },
     {
@@ -72,7 +72,7 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
+      name: "HTML",
       icon: typescript,
     },
     {
@@ -151,5 +151,30 @@ import {
         "Modified",
       ],
     },
-   
   ];
+
+  const projects = [
+      {
+        name: "Greinvo",
+        description:
+          "recyling calculator and invoce generator",
+        tags: [
+          {
+            name: "SwiftUI",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "Core Data",
+            color: "green-text-gradient",
+          },
+          {
+            name: "MVVM",
+            color: "pink-text-gradient",
+          },
+        ],
+        image: carrent,
+        source_code_link: "https://github.com/fcamas",
+      },
+  ];
+   
+  
