@@ -134,9 +134,11 @@ import {
       iconBg: "#383E56",
       date: "March 2021 - January 2022",
       points: [
-        "Developed ",
-        "Created",
-        "Modified",
+        "Provided technical guidance, mentorship, and support to a team of up to six iOS development interns",
+        "Designed and optimized 60% of the UI/UX flow to create advanced, intuitive and friendly user flows",
+        "Integrated advanced architectural patterns into 60% of the codebase, enhancing both scalability and testability",
+        "Assisted in project planning, including task estimation, feature breakdowns, and timeline management",
+        "Conducted code reviews to ensure code quality and provide constructive feedback to team members",
       ],
     },
     {
