@@ -144,13 +144,14 @@ import {
       company_name: "JPMorgan Chase and Co",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "",
+      date: "June 2022 - January 2023",
       points: [
-        "Developed ",
-        "Created",
-        "Modified",
+        "Addressed 15-20 UI/UX and ADA defects per sprint in a fast-paced environment.",
+        "Enhanced test coverage to reach 90% test coverage using the XCTest framework",
+        "Collaborated proactively with cross-functional teams to optimize processes and provide real-time status updates on issues and defects",
       ],
     },
+    
   ];
 
   const projects = [
