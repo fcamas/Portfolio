@@ -121,9 +121,9 @@ import {
       iconBg: "#383E56",
       date: "August 2020 - January 2021",
       points: [
-        "Developed ",
-        "Created",
-        "Modified",
+        "Build new features using SwiftUI to improve user experience by a 30%",
+        "Created new endpoints to app new features, using Firebase Database.",
+        "Integrated interactive images onto the app's Mapbox map using its APIs",
       ],
     },
 
@@ -161,6 +161,12 @@ import {
         name: "Greinvo",
         description:
           "recyling calculator and invoce generator",
+          "Created and uploaded a scalable app from scratch to the app store",
+          "Developed wireframes, prototypes, and visual designs using Figma",
+          "Designed and developed the interface for entering and calculating invoice amounts",
+          "Implemented localization to support multiple languages",
+          "Developed a React website for GreInvo to deliver updates and the latest releases information",
+
         tags: [
           {
             name: "SwiftUI",
