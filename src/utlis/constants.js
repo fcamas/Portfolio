@@ -160,7 +160,7 @@ import {
       {
         name: "Greinvo",
         description:
-          "recyling calculator and invoce generator",
+          "Recyling calculator and invoce generator",
           "Created and uploaded a scalable app from scratch to the app store",
           "Developed wireframes, prototypes, and visual designs using Figma",
           "Designed and developed the interface for entering and calculating invoice amounts",
