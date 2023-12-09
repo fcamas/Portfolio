@@ -11,7 +11,11 @@ import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Stars
           <Navbar/>
           <Hero/>
         </div>
-        
+        <About/>
+        <Experience/>
+        <Tech/>
+        <Works/>
+        <Feedbacks/>
       </div>
       </BrowserRouter>
     </div>
