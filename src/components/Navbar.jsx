@@ -14,7 +14,7 @@ const Navbar = () => {
         <Link to="/" 
               className = "flex itmes-center gap-2"
               onClick={() => {
-                setActive(false)
+                setActive(false);
               }}>
           <img src = {logo} alt = "catlogo2" className='w-9 h-9 object contain'></img>
         <p className='text-white text-[18px] font-bold cursor-pointer'>Fredy <span className='sm.block hidden'> Mobil Engineering </span></p>
