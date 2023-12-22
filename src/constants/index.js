@@ -130,6 +130,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "IOS Developer ",
+    company_name: "JPMorgan Chase and Co",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "June 2022 - January 2023",
+    points: [
+      "Addressed 15-20 UI/UX and ADA defects per sprint in a fast-paced environment.",
+      "Enhanced test coverage to reach 90% test coverage using the XCTest framework",
+      "Collaborated proactively with cross-functional teams to optimize processes and provide real-time status updates on issues and defects",
+    ],
+  },
+  {
     title: "React.js Developer",
     company_name: "Starbucks",
     icon: starbucks,
