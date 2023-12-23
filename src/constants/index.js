@@ -195,6 +195,8 @@ const experiences = [
   },
 ];
 
+
+
 const testimonials = [
   {
     testimonial:
@@ -224,9 +226,19 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+
+    name: "Greinvo",
+        description:
+          "Recyling calculator and invoce generator",
+          "Created and uploaded a scalable app from scratch to the app store",
+          "Developed wireframes, prototypes, and visual designs using Figma",
+          "Designed and developed the interface for entering and calculating invoice amounts",
+          "Implemented localization to support multiple languages",
+          "Developed a React website for GreInvo to deliver updates and the latest releases information",
+
+  
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    "iOS Aplication "
     tags: [
       {
         name: "react",
