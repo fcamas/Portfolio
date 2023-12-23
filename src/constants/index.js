@@ -238,23 +238,23 @@ const projects = [
 
   
     description:
-    "iOS Aplication "
+    "iOS Aplication",
     tags: [
       {
-        name: "react",
+        name: "SwiftUI",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Core Data",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MVVM",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/fcamas",
   },
   {
     name: "Job IT",
