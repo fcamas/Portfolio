@@ -270,6 +270,18 @@ const projects = [
       "Conducted code reviews to ensure code quality and provide constructive feedback to team members",
     ],
   },
+  {
+    title: "IOS Developer Intern",
+    company_name: "Hiker Weather ",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "August 2020 - January 2021",
+    points: [
+      "Build new features using SwiftUI to improve user experience by a 30%",
+      "Created new endpoints to app new features, using Firebase Database.",
+      "Integrated interactive images onto the app's Mapbox map using its APIs",
+    ],
+  },
   
   {
     name: "Job IT",
