@@ -227,16 +227,17 @@ const testimonials = [
 const projects = [
   {
     name: "Greinvo",
-        description:
+        description: [
           "Recyling calculator and invoce generator",
           "Created and uploaded a scalable app from scratch to the app store",
           "Developed wireframes, prototypes, and visual designs using Figma",
           "Designed and developed the interface for entering and calculating invoice amounts",
           "Implemented localization to support multiple languages",
           "Developed a React website for GreInvo to deliver updates and the latest releases information",
+        ],
 
   
-    description:
+    title:
     "iOS Aplication",
     tags: [
       {
