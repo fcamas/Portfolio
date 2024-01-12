@@ -2,8 +2,9 @@ import React from 'react'
 import { Link} from 'react-router-dom'
 import { styles } from '../styles'
 import { navLinks} from '../constants'
-import { logo, menu, close } from '../assets'
-import { catLogo1 } from '../assets'
+import { logo,  menu, close, cat,catLogo1} from '../assets'
+
+
 
 const Navbar = () => {
   return (
@@ -18,7 +19,7 @@ const Navbar = () => {
                 setActive(false);
               }}>
           <img src = {catLogo1} alt = "catlogo2" className='w-9 h-9 object contain'></img>
-        <p className='text-white text-[18px] font-bold cursor-pointer'>Fredy <span className='sm.block hidden'> Mobil Engineering </span></p>
+        <p className='text-white text-[18px] font-bold cursor-pointer'>Fredy <span className='sm.block hidden'> Mobile Engineering </span></p>
         </Link>
         <ul className = 'list-none hidden sm:felx flex-raw gap-10'>
           {navLinks.map((Link) => (
