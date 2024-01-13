@@ -8,6 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import cat from "./cat.png"
 import catLogo1 from "./catLogo1.png"
+import mainCat from "./mainCat.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -63,4 +64,5 @@ export {
   tripguide,
   cat,
   catLogo1,
+  mainCat,
 };
