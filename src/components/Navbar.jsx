@@ -19,7 +19,7 @@ const Navbar = () => {
                 setActive(false);
               }}>
           <img src = {mainCat} alt = "catlogo2" className='w-9 h-9 object contain'></img>
-        <p className='text-white text-[18px] font-bold cursor-pointer'>Fredy <span className='sm.block hidden'> Mobile Engineering </span></p>
+        <p className='text-white text-[18px] font-bold cursor-pointer'>Fredy <span className='sm.block hidden'>  Mobile Engineering </span></p>
         </Link>
         <ul className = 'list-none hidden sm:felx flex-raw gap-10'>
           {navLinks.map((Link) => (
